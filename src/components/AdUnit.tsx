@@ -24,7 +24,7 @@ const getAdSlotId = (slot: string): string => {
 }
 
 export default function AdUnit({ slot, format, className = '', sticky = false }: AdUnitProps) {
-  const adRef = useRef<HTMLDivElement>(null)
+  const adRef = useRef<HTMLModElement>(null)
   const [adLoaded, setAdLoaded] = useState(false)
   
   // Use intersection observer to load ads only when they're about to be visible

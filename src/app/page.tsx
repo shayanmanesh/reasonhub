@@ -28,8 +28,8 @@ export default function ChatGPTAlternativesPage() {
           </h1>
           
           <p className="text-xl text-gray-600 mb-6">
-            If ChatGPT's $20 monthly fee has you searching for alternatives, you're not alone. 
-            After 500 hours of testing 47 different AI tools, we've identified the 10 best 
+            If ChatGPT&apos;s $20 monthly fee has you searching for alternatives, you&apos;re not alone. 
+            After 500 hours of testing 47 different AI tools, we&apos;ve identified the 10 best 
             options that deliver comparable (or better) results for specific use cases.
           </p>
           
@@ -40,7 +40,7 @@ export default function ChatGPTAlternativesPage() {
             </p>
             <p className="text-blue-800">
               <strong>Claude</strong> offers similar capabilities at half the price ($10/month). 
-              For free options, <strong>Google's Gemini</strong> provides excellent basic functionality. 
+              For free options, <strong>Google&apos;s Gemini</strong> provides excellent basic functionality. 
               <strong>Perplexity</strong> excels for research tasks at $10/month.
             </p>
           </div>
@@ -91,7 +91,7 @@ export default function ChatGPTAlternativesPage() {
                 <h3 className="font-semibold text-lg mb-2">Feature Gaps (32%)</h3>
                 <p className="text-gray-600">
                   Users need specific capabilities like real-time data, code execution, 
-                  or specialized knowledge that ChatGPT doesn't provide.
+                  or specialized knowledge that ChatGPT doesn&apos;t provide.
                 </p>
               </div>
               
@@ -163,7 +163,7 @@ Where Claude truly shines is in its ability to maintain context throughout long 
 
 The pricing advantage cannot be overlooked. At $10/month, Claude provides 90% of ChatGPT's capabilities at half the cost. For users primarily needing text generation and analysis, this represents exceptional value.
 
-However, Claude's limitation to text-only interactions means users needing image generation or analysis must look elsewhere. Additionally, while Claude's responses are often more thoughtful, they can sometimes be overly cautious or verbose compared to ChatGPT's more direct approach.`}
+However, Claude&apos;s limitation to text-only interactions means users needing image generation or analysis must look elsewhere. Additionally, while Claude&apos;s responses are often more thoughtful, they can sometimes be overly cautious or verbose compared to ChatGPT&apos;s more direct approach.`}
           />
           
           {/* Ad placement between reviews */}
@@ -192,7 +192,7 @@ However, Claude's limitation to text-only interactions means users needing image
             ]}
             detailedReview={`Google's Gemini represents the best free alternative to ChatGPT, offering capabilities that would cost $20/month elsewhere at no charge. Our testing revealed that Gemini particularly excels at research tasks, leveraging Google's vast knowledge graph to provide accurate, up-to-date information.
 
-The integration with Google Workspace is seamless. During testing, we could directly access Gmail, Docs, and Drive data, making Gemini invaluable for users heavily invested in Google's ecosystem. This integration saved an average of 15 minutes per complex task compared to copying data between applications.
+The integration with Google Workspace is seamless. During testing, we could directly access Gmail, Docs, and Drive data, making Gemini invaluable for users heavily invested in Google&apos;s ecosystem. This integration saved an average of 15 minutes per complex task compared to copying data between applications.
 
 Gemini's multimodal capabilities impressed us. It handled image analysis tasks with 94% accuracy compared to ChatGPT's 96%, while maintaining faster response times. Code generation quality matched ChatGPT for common languages like Python and JavaScript.
 
