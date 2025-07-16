@@ -5,6 +5,7 @@ import AlternativeReview from '@/components/AlternativeReview'
 import DecisionQuiz from '@/components/DecisionQuiz'
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://www.reasonhub.ai'),
   title: '10 Best ChatGPT Alternatives in 2025 (Tested & Ranked)',
   description: 'Found the perfect ChatGPT alternatives after 500 hours of testing. Compare free and paid options with honest reviews, real examples, and clear pricing.',
   keywords: 'chatgpt alternatives, best chatgpt alternatives free, chatgpt alternatives for coding, cheaper alternatives to chatgpt',
